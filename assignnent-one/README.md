@@ -2,7 +2,7 @@
 
 A simple Express.js API for creating and retrieving blog posts.
 
-## Run the server 
+## Run the server
 
 ```bash
 node app.js
