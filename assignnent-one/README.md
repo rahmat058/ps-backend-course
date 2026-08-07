@@ -1,4 +1,4 @@
-# Blog Post API 
+# Blog Post API
 
 A simple Express.js API for creating and retrieving blog posts.
 
